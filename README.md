@@ -35,7 +35,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-## 🏁 Getting Started <a name = "getting_started">Chat Application </a>
+## 🏁 Getting Started <a name = "getting_started"> Chat Application </a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
@@ -146,7 +146,9 @@ By implementing specific features and functionalities, a chat application using 
 - [CSS](https://www.css.com/)- Design
 
 -[JavaScript](https://www.JavaScript.com/)- Design
--[React](https://www.react.com/)- Design
+
+-[React](https://www.react.com/)- Backend
+
 ## ✍ Authors <a name = "authors">Durgesh Giri</a>
 - [@durgesh](https://github.com/durgeshgiri123/Singup) - Idea & Initial work
 
